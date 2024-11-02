@@ -1,6 +1,6 @@
 # Ignore all CSV and PNG files
 *.csv
-*.png
+#*.png
 
 # Include specific files
 !reports/baseline_model_results.csv
